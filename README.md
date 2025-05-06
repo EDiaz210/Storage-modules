@@ -1,4 +1,5 @@
 📦 Proyecto: Autenticación y Conexión con APIs
+-
 Este proyecto es un ejemplo práctico que muestra cómo manejar la autenticación de usuarios, realizar conexiones a bases de datos simuladas y consumir APIs externas utilizando JavaScript moderno. También muestra cómo interactuar con el almacenamiento local del navegador (localStorage).
 
 🧩 Estructura de Archivos
