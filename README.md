@@ -2,6 +2,9 @@
 
 Este proyecto es un ejemplo práctico que muestra cómo manejar la autenticación de usuarios, realizar conexiones a bases de datos simuladas y consumir APIs externas utilizando JavaScript moderno. También muestra cómo interactuar con el almacenamiento local del navegador (localStorage).
 
+![image](https://github.com/user-attachments/assets/3318007d-a670-4972-9490-ca8c8be03ec0)
+
+
 ## 🧩 Estructura de Archivos
 
 El proyecto tiene dos archivos principales:
